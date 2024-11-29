@@ -22,5 +22,5 @@ We have no latency issue or time as we have 15–30 days to process the claim.
     https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis
 
 ### Deployment of model on Heroku:
-https://healthcare-fraud-api.herokuapp.com/index
+    https://healthcare-fraud-api.herokuapp.com/index
 ```
